@@ -1,0 +1,16 @@
+*{
+    margin:0%;
+    padding: 0%;
+    box-sizing: 0%;
+}
+.botao{
+width:90px;
+background-color:deepskyblue;
+height: 40px;
+border-radius: 30PX;
+align-items: center;
+}
+.h1{
+    text-align: center;
+    background-color:deepskyblue;
+}
